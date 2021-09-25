@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Gully AI',
+  heading: 'Gully Media',
   subHeading:
-    "Gully news brings interesting and reliable news from your local neighbourhood that with the support of data driven platform and Artificial Intellgience.",
+    "Gully media brings interesting and reliable news from your local neighbourhood with the support of Data Driven Platform and Artificial Intellgience.",
   socialLinks: [
     // {
     //   icon: 'fa-github',
